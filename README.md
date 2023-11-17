@@ -4,7 +4,7 @@ O Template para APIs em Express é uma estrutura robusta e flexível projetada p
 
 ## Criando novo repositório
 
-Clique no botão verde "Use this repository" e depois clique em "Create a new repository" para criar um novo repositório utilizando este template
+Clique no botão verde "Use this template" e depois clique em "Create a new repository" para criar um novo repositório utilizando este template
 
 ## Rodando localmente
 
