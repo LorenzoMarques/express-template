@@ -2,12 +2,16 @@
 
 O Template para APIs em Express é uma estrutura robusta e flexível projetada para acelerar o desenvolvimento de APIs utilizando o framework Express. Este repositório serve como um ponto de partida para desenvolvedores que desejam criar APIs eficientes e bem-estruturadas. O template conta com um script para gerar CRUDs e um sistema de rotas dinâmicas.
 
+## Criando novo repositório
+
+Clique no botão verde "Use this repository" e depois clique em "Create a new repository" para criar um novo repositório utilizando este template
+
 ## Rodando localmente
 
-Clone o projeto
+Clonando repositório
 
 ```bash
-  git clone https://github.com/LorenzoMarques/express-template.git
+  git clone https://repositoryLink.git
 ```
 
 Entre no diretório do projeto
